@@ -30,7 +30,7 @@ function create() {
   spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
   // 🏆 Title
-  this.add.text(20, 10, "Merlinio - Wizard of the code 🧙", {
+  this.add.text(20, 10, "Merlinio & $MRLN- Wizard of the code 🧙", {
     fontSize: "28px",
     fill: "#fff",
     fontStyle: "bold",
